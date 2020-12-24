@@ -1,0 +1,21 @@
+{
+    "name": "codepotato-theme",
+    "displayName": "Codepotato Theme",
+    "description": "Theme using Codepotato branding",
+    "version": "1.0.0",
+    "engines": {
+        "vscode": "^1.52.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Codepotato",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Codepotato-color-theme.json"
+            }
+        ]
+    }
+}
