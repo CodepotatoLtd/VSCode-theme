@@ -1,6 +1,11 @@
 {
     "name": "codepotato-theme",
     "displayName": "Codepotato Theme",
+    "icon": "codepotato-icon.png",
+    "galleryBanner": {
+        "color": "#0c1430",
+        "theme": "dark"
+    },
     "description": "Theme using Codepotato branding",
     "version": "1.0.0",
     "engines": {
@@ -17,5 +22,20 @@
                 "path": "./themes/Codepotato-color-theme.json"
             }
         ]
-    }
+    },
+    "license": "MIT",
+    "homepage": "https://codepotato.co.uk/",
+    "bugs": {
+        "url": "https://github.com/CodepotatoLtd/VSCode-theme/issues",
+        "email": "michael@codepotato.co.uk"
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/CodepotatoLtd/VSCode-theme.git"
+    },
+    "author": {
+        "name": "Michael Perks",
+        "email": "michael@codepotato.co.uk",
+        "url": "https://codepotato.co.uk/"
+      }
 }
