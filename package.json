@@ -1,8 +1,8 @@
 {
     "name": "codepotato-theme",
-    "publisher": "michaelperks",
+    "publisher": "Codepotato",
     "displayName": "Codepotato Theme",
-    "icon": "codepotato-icon.png",
+    "icon": "codepotato.png",
     "galleryBanner": {
         "color": "#0c1430",
         "theme": "dark"
